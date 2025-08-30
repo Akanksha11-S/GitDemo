@@ -1,0 +1,9 @@
+--global user.name "Akanksha11-S"
+--global user.email "akankshashinde158@gmail.com"
+
+//go to reveal in file explorer and type cmd on address bar
+git init
+git remote add origin https://github.com/Akanksha11-S/GitDemo.git
+
+//in vs code new terminal
+git pull origin main
